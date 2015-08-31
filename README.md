@@ -1,5 +1,5 @@
-# Javascript Project Boilerplate
-A template for Javascript projects intended to kick-start productivity.
+# Readme.js tts in your web articles
+JS library to add text to speech (tts) on your website articles.
 
 ## Scaffolding
 Javascript Project Boilerplate provides a smart folder structure and some preconfigured files:
